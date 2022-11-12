@@ -1,0 +1,16 @@
+.heading
+{
+    color: blue;
+    font-size: 20px;
+    padding: 5px;
+    margin: 5px;
+}
+.cats
+{
+  background-color: darkorchid;
+  color: rgb(0, 0, 235);
+  font-size: 20px;
+  padding: 5px;
+  margin: 5px;
+  width: 220px;
+}
